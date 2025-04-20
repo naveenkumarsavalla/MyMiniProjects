@@ -1,0 +1,7 @@
+.header{
+    background: radial-gradient(rgb(169, 62, 62)0%,rgb(50, 179, 188)100%,rgb(95, 36, 46));
+    color: white;
+    text-align: center;
+    padding: 7px;
+    border-radius: 6px;
+}

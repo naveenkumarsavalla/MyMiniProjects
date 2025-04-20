@@ -1,0 +1,11 @@
+.header{
+    background: radial-gradient(rgb(249, 1, 220)0%,rgb(3, 3, 247)100%);
+    color: rgb(250, 248, 248);
+    text-align: center;
+    padding: 7px;
+    border-radius: 6px;
+
+}
+.cu{
+    cursor: pointer;
+}
